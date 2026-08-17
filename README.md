@@ -44,7 +44,7 @@ Para implantar e rodar o projeto diretamente no GitHub Pages sem erros, certifiq
 
 1. Clone o repositório em seu ambiente local:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/leo-gomes-dev/gerador_de_curriculo_pdf.git
    ```
 2. Entre na pasta raiz do projeto.
 3. Abra o arquivo `index.html` diretamente em seu navegador web.
