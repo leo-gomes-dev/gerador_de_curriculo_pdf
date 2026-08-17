@@ -50,5 +50,5 @@ Para implantar e rodar o projeto diretamente no GitHub Pages sem erros, certifiq
 3. Abra o arquivo `index.html` diretamente em seu navegador web.
 4. Comece a preencher o formulário, teste o botão **"Adicionar curso +"** e submeta os dados para gerar o seu documento.
 
-- Projeto testado e homologado pela comunidade..
+
 
